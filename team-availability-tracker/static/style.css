@@ -1,0 +1,28 @@
+body{
+    font-family:Arial;
+    text-align:center;
+    background:#f4f4f4;
+}
+
+.card{
+    background:white;
+    width:300px;
+    margin:15px auto;
+    padding:15px;
+    border-radius:10px;
+}
+
+.available{
+    color:green;
+    font-weight:bold;
+}
+
+.unavailable{
+    color:red;
+    font-weight:bold;
+}
+
+button{
+    padding:8px 15px;
+    cursor:pointer;
+}
